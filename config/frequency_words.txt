@@ -10,3 +10,10 @@ Stable Diffusion
 大模型
 机器视觉
 深度学习
+西游记
+孙悟空
+黑神话
+AI翻唱
+AI唱歌
+AI跳舞
+AI复活
